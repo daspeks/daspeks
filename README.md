@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Nguyễn Hữu Thắng and I'm a React Native & ReactJS Developer, from Việt Nam</h2>
+<h2 align="left">Hi 👋 from 🇮🇳</h2>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thangpaisen&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thangpaisen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=daspeks&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daspeks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
